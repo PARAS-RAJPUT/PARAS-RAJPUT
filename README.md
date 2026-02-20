@@ -19,3 +19,7 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=paras-rajput&" alt="paras-rajput" /></p>
 
+
+
+![Contribution snake example](https://github.com/<USERNAME>/<USERNAME>/blob/output/github-contribution-grid-snake.svg)
+
