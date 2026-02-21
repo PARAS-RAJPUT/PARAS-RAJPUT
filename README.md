@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Paras Rajput</h1>
 <h3 align="center">A passionate Machine Learning Developer from India</h3>
 
-- 🔭 I’m currently working on **NLP**
+- 🔭 I’m currently working on **Computer Vision**
 
-- 🌱 I’m currently learning **MERN**
+- 🌱 I’m currently learning **MERN, Blockchain**
+
+- 👯 I’m looking to collaborate on **Deep learning**
 
 - 💬 Ask me about **Machine Learning**
 
