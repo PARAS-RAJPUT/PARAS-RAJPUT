@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paras Rajput</h1>
 
 # 💫 About Me:
-🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on NLP<br>🌱 I’m currently learning MERN<br>💬 Ask me about Machine Learning
+🔭 I’m currently working on Deep Learning<br>👯 I’m looking to collaborate on NLP<br>💬 Ask me about Machine Learning
 <br>🐞 Successfully reported an XSS vulnerability </br>
 
 
